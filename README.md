@@ -31,7 +31,7 @@ Complexity:
 - Inside loop - When checking if character is an opening bracket will be O(1) since it only check `data` object which is fixed values so - Array push or pop is O(1)
   So the most expensive computation will be on iteration which is O(n) so I can say overall time complexity: O(n)
 
-### Test 3 - Highest Palindrome
+### Test 3 - Highest Palindrome (UNFINISHED)
 
 How to run:
 
